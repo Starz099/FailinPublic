@@ -3,7 +3,7 @@
   "displayName": "Fail In Public",
   "description": "",
   "publisher": "AngadBajaj",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "icon":"images/extension-icon.png",
   "engines": {
     "vscode": "^1.103.0"

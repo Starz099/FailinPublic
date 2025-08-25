@@ -11,6 +11,13 @@
   "categories": [
     "Other"
   ],
+  "authentication": [
+    {
+      "id": "github",
+      "label": "GitHub",
+      "scopes": ["read:user"]
+    }
+  ],
   "activationEvents": [],
   "main": "./out/extension.js",
   "contributes": {
